@@ -1,0 +1,535 @@
+# Implementation (구현체)
+
+## 프로그래밍 언어
+- [x] Python
+- [ ] JavaScript
+- [ ] TypeScript
+- [ ] Java
+- [ ] C
+- [ ] C++
+- [ ] C#
+- [ ] Go
+- [ ] Rust
+- [ ] Kotlin
+- [ ] Swift
+
+## 백엔드 프레임워크
+- [x] Spring Boot
+- [x] Django
+- [x] Express
+- [x] FastAPI
+- [x] NestJS
+
+## 데이터베이스
+- [x] MySQL
+- [x] PostgreSQL
+- [x] MongoDB
+- [x] Redis
+
+## 메시지/스트리밍
+- [x] Kafka
+- [x] RabbitMQ
+
+## 인프라/서버
+- [x] Nginx
+- [x] Docker
+- [x] Kubernetes
+
+## 프론트엔드
+- [x] React
+- [x] Vue
+- [x] Next.js
+
+## 빌드/도구
+- [x] Webpack
+- [x] Vite
+
+# Concept (개념)
+- [x] 보안
+- [x] 확장성
+- [x] 가용성
+
+# Mechanism (메커니즘)
+- [x] 캐싱
+- [x] 로드 밸런싱
+- [x] 리플리케이션
+- [x] Transformer
+- [x] 칼만 필터
+- [x] 번들링
+
+# Standard (표준)
+- [x] HTTP
+- [x] REST
+- [x] JWT
+
+# 끊어진 링크 (우선순위 높음)
+
+## 프로그래밍 개념
+- [ ] 인터프리터 (Python에서 7회 참조)
+- [ ] JVM (Java Virtual Machine)
+- [ ] REPL (Read-Eval-Print Loop)
+
+## 아키텍처/패턴
+- [ ] 웹 프레임워크 (6회 참조)
+- [ ] ORM (4회 참조)
+- [ ] 마이크로서비스 (4회 참조)
+- [ ] MVC
+- [ ] MTV (Model-Template-View)
+
+## 보안/인증
+- [ ] 인증
+- [ ] 인가
+- [ ] OAuth2
+- [ ] 암호화
+- [ ] CSRF
+- [ ] XSS
+
+## 인프라/배포
+- [ ] CDN
+- [ ] WSGI
+- [ ] ASGI
+
+## 데이터베이스
+- [ ] ACID
+- [ ] Migration
+
+## 데이터베이스 관련
+- [ ] RDBMS
+- [ ] 관계형 데이터베이스
+- [ ] NoSQL
+- [ ] 문서형 데이터베이스
+- [ ] Key-Value 데이터베이스
+- [ ] 인메모리
+
+## 프로그래밍 개념 (추가)
+- [ ] 오픈소스
+- [ ] 객체지향
+- [ ] 함수형
+- [ ] 절차적 프로그래밍
+- [ ] 동적 타이핑
+- [ ] Duck Typing
+- [ ] 멀티스레딩
+- [ ] 이벤트 루프
+- [ ] 가상 머신
+- [ ] JIT
+- [ ] JIT 컴파일러
+- [ ] Lambda 함수
+- [ ] 고차 함수
+- [ ] List Comprehension
+- [ ] Generator
+- [ ] Decorator
+- [ ] Context Manager
+- [ ] 레퍼런스 카운팅
+- [ ] 순환 참조
+
+## 아키텍처/패턴 (추가)
+- [ ] 마이크로서비스
+- [ ] 서버리스
+- [ ] 이벤트 소싱
+- [ ] 리액티브 프로그래밍
+- [ ] AOP (관점 지향 프로그래밍)
+- [ ] IoC (제어의 역전)
+- [ ] DI (의존성 주입)
+
+## 인프라/배포 (추가)
+- [ ] CI/CD
+- [ ] 컨테이너
+- [ ] 컨테이너 오케스트레이션
+- [ ] 블루-그린 배포
+- [ ] 롤링 업데이트
+- [ ] 페일오버
+- [ ] 재해 복구
+- [ ] 리버스 프록시
+- [ ] 웹 서버
+
+## 데이터베이스 기술
+- [ ] 샤딩
+- [ ] 메시지 브로커
+- [ ] 분산 스트리밍 플랫폼
+
+## AI/ML 관련
+- [ ] LLM
+- [ ] 딥러닝
+- [ ] 머신러닝
+- [ ] NLP
+- [ ] 임베딩
+- [ ] GPT
+- [ ] GPT-3
+- [ ] GPT-4
+- [ ] BERT
+- [ ] Claude
+- [ ] ChatGPT
+- [ ] RAG
+- [ ] KV Cache
+- [ ] Vision Transformer (ViT)
+- [ ] Sparse Attention
+- [ ] Flash Attention
+- [ ] Mamba
+- [ ] RNN
+- [ ] LSTM
+- [ ] T5
+- [ ] RoPE
+- [ ] ALiBi
+- [ ] DALL-E
+- [ ] Stable Diffusion
+- [ ] AlphaFold
+- [ ] 자율주행
+- [ ] 드론
+- [ ] GPU
+
+## 프론트엔드 프레임워크/라이브러리
+- [ ] 프론트엔드 프레임워크
+- [ ] Angular
+- [ ] Svelte
+- [ ] Solid
+- [ ] Astro
+- [ ] SvelteKit
+- [ ] Nuxt
+- [ ] Nuxt 3
+- [ ] Remix
+- [ ] 가상 DOM
+
+## 프론트엔드 도구/라이브러리
+- [ ] React Router
+- [ ] React Hook Form
+- [ ] Redux
+- [ ] Zustand
+- [ ] Recoil
+- [ ] Jotai
+- [ ] Vue Router
+- [ ] Pinia
+- [ ] Vue CLI
+- [ ] Create React App
+- [ ] CRA
+
+## UI 라이브러리
+- [ ] MUI
+- [ ] Ant Design
+- [ ] Chakra UI
+- [ ] shadcn/ui
+- [ ] Vuetify
+- [ ] Element Plus
+- [ ] PrimeVue
+
+## 빌드/번들링 도구
+- [ ] esbuild
+- [ ] Rollup
+- [ ] Parcel
+- [ ] SWC
+- [ ] Turbopack
+- [ ] Browserify
+- [ ] Code Splitting
+- [ ] Lazy Loading
+- [ ] Tree Shaking
+- [ ] Minification
+- [ ] Hot Module Replacement
+- [ ] CSS-in-JS
+
+## 백엔드 프레임워크 (추가)
+- [ ] Flask
+- [ ] Fastify
+- [ ] Koa
+- [ ] Node.js
+
+## 데이터베이스 도구/확장
+- [ ] Sequelize
+- [ ] TypeORM
+- [ ] Prisma
+- [ ] Mongoose
+- [ ] JPA
+- [ ] MyBatis
+- [ ] jOOQ
+- [ ] SQLAlchemy
+- [ ] Tortoise-ORM
+- [ ] Alembic
+- [ ] PostGIS
+- [ ] pgvector
+- [ ] pg_trgm
+- [ ] TimescaleDB
+- [ ] Citus
+- [ ] MongoDB Atlas
+- [ ] MongoDB Compass
+- [ ] Mongosh
+- [ ] MongoDB Replica Set
+- [ ] Replica Set
+- [ ] Change Streams
+- [ ] Realm
+- [ ] Atlas Search
+- [ ] GridFS
+- [ ] WiredTiger
+- [ ] InnoDB
+- [ ] MyISAM
+- [ ] MySQL Workbench
+- [ ] MySQL Connector
+- [ ] phpMyAdmin
+- [ ] DBeaver
+- [ ] DataGrip
+- [ ] pgAdmin
+- [ ] MySQL Cluster
+- [ ] Group Replication
+- [ ] MySQL Replication
+- [ ] PostgreSQL Streaming Replication
+- [ ] GTID
+- [ ] Percona Toolkit
+- [ ] Percona XtraBackup
+- [ ] pt-online-schema-change
+- [ ] gh-ost
+- [ ] ProxySQL
+- [ ] PgBouncer
+- [ ] Pgpool-II
+- [ ] pg_basebackup
+- [ ] pg_dump
+- [ ] pg_restore
+- [ ] pg_repack
+- [ ] pgBackRest
+- [ ] Barman
+- [ ] VACUUM
+
+## Redis 관련
+- [ ] Redis Cluster
+- [ ] Redis Sentinel
+- [ ] Redis Stack
+- [ ] Redis Streams
+- [ ] RediSearch
+- [ ] RedisGraph
+- [ ] RedisTimeSeries
+- [ ] ioredis
+- [ ] redis-py
+- [ ] Memcached
+
+## Kafka 관련
+- [ ] Kafka Connect
+- [ ] Kafka Streams
+- [ ] Schema Registry
+- [ ] Avro
+- [ ] Protobuf
+- [ ] librdkafka
+- [ ] confluent-kafka-python
+
+## RabbitMQ 관련
+- [ ] AMQP
+- [ ] MQTT
+- [ ] STOMP
+- [ ] pika
+- [ ] amqplib
+- [ ] Celery
+
+## 메시징/스트리밍 (추가)
+- [ ] Apache Flink
+- [ ] Spark Streaming
+
+## Nginx 관련
+- [ ] HAProxy
+- [ ] Varnish
+- [ ] Apache
+- [ ] OpenResty
+- [ ] NGINX Plus
+- [ ] Lua
+- [ ] GeoIP
+- [ ] Image Filter
+- [ ] FastCGI
+- [ ] uWSGI
+
+## Docker/Kubernetes 관련
+- [ ] Docker Compose
+- [ ] Docker Desktop
+- [ ] Docker Hub
+- [ ] Dockerfile
+- [ ] GitHub Container Registry
+- [ ] AWS ECR
+- [ ] Google GCR
+- [ ] Rancher Desktop
+- [ ] Podman
+- [ ] Kubernetes Service
+- [ ] Ingress Controller
+- [ ] Helm
+- [ ] Kustomize
+- [ ] ArgoCD
+- [ ] Flux
+- [ ] Istio
+- [ ] Linkerd
+- [ ] Prometheus
+- [ ] Grafana
+- [ ] ELK Stack
+- [ ] Loki
+
+## 클라우드 서비스
+- [ ] Amazon RDS
+- [ ] Amazon MSK
+- [ ] Amazon MQ
+- [ ] AWS ECR
+- [ ] AWS ALB/NLB
+- [ ] EKS
+- [ ] Google Cloud SQL
+- [ ] Google GCR
+- [ ] GKE
+- [ ] Azure Database
+- [ ] Azure Database for MySQL
+- [ ] Azure Cache
+- [ ] AKS
+- [ ] ElastiCache
+- [ ] Redis Cloud
+- [ ] Upstash
+- [ ] Supabase
+- [ ] Neon
+- [ ] Vercel
+- [ ] CloudAMQP
+- [ ] Confluent Cloud
+- [ ] Aiven
+
+## 보안/인증 (추가)
+- [ ] WAF
+- [ ] 방화벽
+- [ ] Auth0
+- [ ] Firebase Auth
+
+## 인증/인가 라이브러리
+- [ ] Passport
+- [ ] helmet
+- [ ] cors
+
+## Python 라이브러리/도구
+- [ ] Pydantic
+- [ ] asyncio
+- [ ] asyncpg
+- [ ] aiohttp
+- [ ] aioredis
+- [ ] httpx
+- [ ] Trio
+- [ ] Gunicorn
+- [ ] Uvicorn
+- [ ] Hypercorn
+- [ ] Daphne
+- [ ] Starlette
+- [ ] Starlette-Admin
+- [ ] SQLAdmin
+- [ ] Django REST Framework
+- [ ] Django Channels
+- [ ] django-allauth
+- [ ] django-debug-toolbar
+- [ ] django-extensions
+- [ ] drf-spectacular
+- [ ] django CMS
+- [ ] Wagtail
+- [ ] Celery
+- [ ] pytest
+- [ ] unittest
+- [ ] mypy
+- [ ] pip
+- [ ] Poetry
+- [ ] conda
+- [ ] pipenv
+- [ ] venv
+- [ ] virtualenv
+- [ ] multiprocessing
+- [ ] PyPy
+- [ ] PyMongo
+- [ ] Motor
+- [ ] pandas
+- [ ] NumPy
+- [ ] SciPy
+- [ ] matplotlib
+- [ ] seaborn
+- [ ] TensorFlow
+- [ ] PyTorch
+- [ ] scikit-learn
+- [ ] Keras
+- [ ] XGBoost
+- [ ] JAX
+- [ ] Flax
+- [ ] Hugging Face Transformers
+- [ ] vLLM
+- [ ] TensorRT-LLM
+- [ ] Python filterpy
+- [ ] OpenCV
+- [ ] Selenium
+- [ ] Beautiful Soup
+- [ ] Scrapy
+- [ ] Kivy
+
+## Node.js 라이브러리/도구
+- [ ] npm
+- [ ] express-async-errors
+- [ ] Socket.io
+- [ ] body-parser
+- [ ] morgan
+- [ ] EJS
+- [ ] Pug
+- [ ] Handlebars
+- [ ] Mocha
+- [ ] Jest
+
+## Java/JVM 관련
+- [ ] Kotlin
+- [ ] Spring Framework
+- [ ] Spring Security
+- [ ] Spring Data
+- [ ] Spring Data Redis
+- [ ] Spring Data MongoDB
+- [ ] Spring AMQP
+- [ ] Spring Cloud
+- [ ] Spring Batch
+- [ ] Spring Boot DevTools
+- [ ] WebFlux
+- [ ] Actuator
+- [ ] Tomcat
+- [ ] JDBC
+- [ ] Jedis
+- [ ] Lettuce
+- [ ] Maven
+- [ ] Gradle
+- [ ] Lombok
+- [ ] MapStruct
+- [ ] GraalVM
+- [ ] Jakarta EE
+
+## 프로그래밍 언어 (추가)
+- [ ] Erlang
+
+## 기타 표준/프로토콜
+- [ ] GraphQL
+- [ ] WebSocket
+- [ ] HTTPS
+- [ ] QUIC
+- [ ] JSON
+- [ ] JSX
+- [ ] SQL
+- [ ] OpenAPI
+- [ ] Swagger
+- [ ] Swagger UI
+- [ ] ReDoc
+- [ ] SSR
+- [ ] SSG
+- [ ] CSS
+- [ ] SSD
+
+## 로드 밸런싱/분산
+- [ ] Health Check
+- [ ] Raft
+- [ ] Paxos
+
+## 기타 도구/개념
+- [ ] curl
+- [ ] Postman
+- [ ] Babel
+- [ ] babel-loader
+- [ ] css-loader
+- [ ] sass-loader
+- [ ] Exception Handling
+- [ ] Depends
+- [ ] ConfigModule
+- [ ] Oracle
+- [ ] MariaDB
+- [ ] WordPress
+- [ ] Drupal
+- [ ] ROS (Robot Operating System)
+- [ ] MATLAB
+- [ ] Instagram
+- [ ] Uber
+- [ ] Spotify
+- [ ] Discord
+- [ ] Google
+- [ ] Cohere
+- [ ] Adept
+- [ ] OpenAI API
+- [ ] Anthropic API
