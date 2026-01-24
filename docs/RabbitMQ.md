@@ -1,5 +1,6 @@
 ---
-aliases: [래빗엠큐, rabbitmq, RabbitMQ]
+title: RabbitMQ
+aliases: ["rabbitmq", "래빗엠큐", "토끼", "message queue"]
 ---
 
 # RabbitMQ

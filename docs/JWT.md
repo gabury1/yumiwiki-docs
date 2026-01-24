@@ -1,5 +1,6 @@
 ---
-aliases: [JSON Web Token, jwt]
+title: JWT
+aliases: ["json web token", "제이슨웹토큰", "jwt"]
 ---
 
 # JWT

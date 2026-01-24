@@ -1,5 +1,6 @@
 ---
-aliases: [패스트API, fastapi]
+title: FastAPI
+aliases: ["fastapi", "패스트api"]
 ---
 
 # FastAPI

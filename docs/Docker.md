@@ -1,5 +1,6 @@
 ---
-aliases: [도커, docker]
+title: Docker
+aliases: ["docker", "도커", "container", "컨테이너"]
 ---
 
 # Docker

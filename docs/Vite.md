@@ -1,5 +1,6 @@
 ---
-aliases: [비트, vite]
+title: Vite
+aliases: ["vite", "비트"]
 ---
 
 # Vite

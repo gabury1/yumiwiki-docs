@@ -1,5 +1,6 @@
 ---
-aliases: [몽고DB, mongodb, 몽고디비]
+title: MongoDB
+aliases: ["mongo", "mongodb", "몽고디비", "몽고", "nosql"]
 ---
 
 # MongoDB

@@ -25,6 +25,7 @@
 - [x] PostgreSQL
 - [x] MongoDB
 - [x] Redis
+- [ ] SQLite
 
 ## 메시지/스트리밍
 - [x] Kafka
@@ -68,6 +69,7 @@
 - [ ] 인터프리터 (Python에서 7회 참조)
 - [ ] JVM (Java Virtual Machine)
 - [ ] REPL (Read-Eval-Print Loop)
+- [ ] 애노테이션
 
 ## 아키텍처/패턴
 - [ ] 웹 프레임워크 (6회 참조)
@@ -75,6 +77,9 @@
 - [ ] 마이크로서비스 (4회 참조)
 - [ ] MVC
 - [ ] MTV (Model-Template-View)
+
+## SpringBoot 관련
+- [ ] SpringBoot - annotation
 
 ## 보안/인증
 - [ ] 인증
@@ -533,3 +538,57 @@
 - [ ] Adept
 - [ ] OpenAI API
 - [ ] Anthropic API
+
+## 2026-01-25 추가 제안 (인기 기술 Top 40)
+
+### CS / 개념
+- [ ] 비동기 (Asynchronous)
+- [ ] 동시성 (Concurrency)
+- [ ] 프로세스 vs 스레드
+- [ ] 트랜잭션 (Transaction)
+- [ ] 데드락 (Deadlock)
+- [ ] MSA (Microservices Architecture)
+- [ ] Serverless
+- [ ] 이벤트 소싱 (Event Sourcing)
+- [ ] CQRS
+
+### 백엔드 / 플랫폼
+- [ ] Node.js
+- [ ] GraphQL
+- [ ] gRPC
+- [ ] Socket.io
+- [ ] Elasticsearch
+- [ ] Hadoop
+- [ ] Spark
+
+### 프론트엔드 / 모바일
+- [ ] React Native
+- [ ] Flutter
+- [ ] Tailwind CSS
+- [ ] Redux
+- [ ] Zustand
+- [ ] TanStack Query
+
+### 인프라 / DevOps
+- [ ] AWS (Amazon Web Services)
+- [ ] CI/CD
+- [ ] GitHub Actions
+- [ ] Terraform
+- [ ] Ansible
+- [ ] Prometheus
+- [ ] Grafana
+- [ ] ELK Stack
+
+### 보안 / 인증
+- [ ] OAuth 2.0
+- [ ] CORS
+- [ ] SSL/TLS
+- [ ] XSS
+- [ ] SQL Injection
+
+### 언어 / 기타
+- [ ] Bash/Shell
+- [ ] 정규표현식 (Regex)
+- [ ] Git
+- [ ] 디자인 패턴
+- [ ] TDD

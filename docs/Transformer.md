@@ -1,5 +1,6 @@
 ---
-aliases: [트랜스포머, Attention is All You Need]
+title: Transformer
+aliases: ["transformer", "트랜스포머", "attention", "어텐션", "llm"]
 ---
 
 # Transformer

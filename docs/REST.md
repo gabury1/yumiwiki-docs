@@ -1,5 +1,6 @@
 ---
-aliases: [RESTful, REST API, Representational State Transfer]
+title: REST
+aliases: ["rest api", "restful", "레스트"]
 ---
 
 # REST

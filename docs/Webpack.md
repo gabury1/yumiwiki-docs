@@ -1,5 +1,6 @@
 ---
-aliases: [웹팩, webpack]
+title: Webpack
+aliases: ["webpack", "웹팩"]
 ---
 
 # Webpack

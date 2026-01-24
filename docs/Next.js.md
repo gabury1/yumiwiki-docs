@@ -1,5 +1,6 @@
 ---
-aliases: [넥스트, NextJS, next.js]
+title: Next.js
+aliases: ["next", "nextjs", "next.js", "넥스트", "넥스트js"]
 ---
 
 # Next.js

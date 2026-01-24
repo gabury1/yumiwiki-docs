@@ -1,5 +1,6 @@
 ---
-aliases: [카프카, Apache Kafka, kafka]
+title: Kafka
+aliases: ["kafka", "apache kafka", "카프카", "메시지큐"]
 ---
 
 # Kafka

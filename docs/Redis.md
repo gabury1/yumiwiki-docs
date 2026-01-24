@@ -1,5 +1,6 @@
 ---
-aliases: [레디스, redis]
+title: Redis
+aliases: ["redis", "레디스", "cache", "캐시서버"]
 ---
 
 # Redis

@@ -1,5 +1,6 @@
 ---
-aliases: [리액트, ReactJS, react]
+title: React
+aliases: ["react", "reactjs", "리액트"]
 ---
 
 # React

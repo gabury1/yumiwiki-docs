@@ -1,5 +1,6 @@
 ---
-aliases: [HyperText Transfer Protocol, http]
+title: HTTP
+aliases: ["http", "protocol", "웹프로토콜"]
 ---
 
 # HTTP

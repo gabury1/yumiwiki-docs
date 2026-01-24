@@ -1,5 +1,6 @@
 ---
-aliases: [파이썬, python, 파이선]
+title: Python
+aliases: ["py", "python", "파이썬"]
 ---
 
 # Python

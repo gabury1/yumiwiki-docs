@@ -1,5 +1,6 @@
 ---
-aliases: [장고, django]
+title: Django
+aliases: ["django", "장고", "python django", "dj"]
 ---
 
 # Django

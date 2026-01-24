@@ -1,5 +1,6 @@
 ---
-aliases: [쿠버네티스, k8s, K8s]
+title: Kubernetes
+aliases: ["k8s", "kubernetes", "쿠버네티스", "큐브"]
 ---
 
 # Kubernetes

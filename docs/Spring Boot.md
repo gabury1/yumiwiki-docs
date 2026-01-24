@@ -1,5 +1,6 @@
 ---
-aliases: [스프링 부트, SpringBoot, 스프링부트]
+title: Spring Boot
+aliases: ["spring", "springboot", "spring boot", "스프링", "스프링부트"]
 ---
 
 # Spring Boot

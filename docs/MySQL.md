@@ -1,5 +1,6 @@
 ---
-aliases: [마이에스큐엘, mysql, MariaDB]
+title: MySQL
+aliases: ["mysql", "마이에스큐엘", "마이sql"]
 ---
 
 # MySQL

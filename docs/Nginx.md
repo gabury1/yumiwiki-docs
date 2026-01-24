@@ -1,5 +1,6 @@
 ---
-aliases: [엔진엑스, nginx, 엔진X]
+title: Nginx
+aliases: ["nginx", "엔진엑스", "웹서버"]
 ---
 
 # Nginx

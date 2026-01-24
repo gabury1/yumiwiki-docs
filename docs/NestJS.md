@@ -1,5 +1,6 @@
 ---
-aliases: [네스트, NestJS, nest.js, Nest]
+title: NestJS
+aliases: ["nest", "nestjs", "네스트", "네스트js"]
 ---
 
 # NestJS

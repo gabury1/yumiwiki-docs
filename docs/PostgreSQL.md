@@ -1,5 +1,6 @@
 ---
-aliases: [포스트그레스, Postgres, postgres, 포스트그레SQL]
+title: PostgreSQL
+aliases: ["postgres", "postgresql", "포스트그레", "포스트그레스", "pgsql"]
 ---
 
 # PostgreSQL

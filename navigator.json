@@ -1,0 +1,252 @@
+{
+    "C Sharp": [
+        "c#",
+        "csharp",
+        "씨샵",
+        "c sharp",
+        "net",
+        "dotnet"
+    ],
+    "C++": [
+        "cpp",
+        "cplusplus",
+        "씨플플",
+        "c++"
+    ],
+    "C": [
+        "clang",
+        "씨언어"
+    ],
+    "Django": [
+        "django",
+        "장고",
+        "python django",
+        "dj"
+    ],
+    "Docker": [
+        "docker",
+        "도커",
+        "container",
+        "컨테이너"
+    ],
+    "Express": [
+        "express",
+        "expressjs",
+        "express.js",
+        "익스프레스"
+    ],
+    "FastAPI": [
+        "fastapi",
+        "패스트api"
+    ],
+    "Go": [
+        "golang",
+        "고랭",
+        "go언어"
+    ],
+    "HTTP": [
+        "http",
+        "protocol",
+        "웹프로토콜"
+    ],
+    "JWT": [
+        "json web token",
+        "제이슨웹토큰",
+        "jwt"
+    ],
+    "Java": [
+        "java",
+        "자바",
+        "jvm"
+    ],
+    "JavaScript": [
+        "js",
+        "javascript",
+        "자바스크립트",
+        "자스",
+        "ecmascript",
+        "es6"
+    ],
+    "Kafka": [
+        "kafka",
+        "apache kafka",
+        "카프카",
+        "메시지큐"
+    ],
+    "Kotlin - 문법": [
+        "kotlin syntax",
+        "코틀린 문법",
+        "kotlin grammar"
+    ],
+    "Kotlin": [
+        "kotlin",
+        "코틀린"
+    ],
+    "Kubernetes": [
+        "k8s",
+        "kubernetes",
+        "쿠버네티스",
+        "큐브"
+    ],
+    "MongoDB": [
+        "mongo",
+        "mongodb",
+        "몽고디비",
+        "몽고",
+        "nosql"
+    ],
+    "MySQL": [
+        "mysql",
+        "마이에스큐엘",
+        "마이sql"
+    ],
+    "NestJS": [
+        "nest",
+        "nestjs",
+        "네스트",
+        "네스트js"
+    ],
+    "Next.js": [
+        "next",
+        "nextjs",
+        "next.js",
+        "넥스트",
+        "넥스트js"
+    ],
+    "Nginx": [
+        "nginx",
+        "엔진엑스",
+        "웹서버"
+    ],
+    "PostgreSQL": [
+        "postgres",
+        "postgresql",
+        "포스트그레",
+        "포스트그레스",
+        "pgsql"
+    ],
+    "Python": [
+        "py",
+        "python",
+        "파이썬"
+    ],
+    "REST": [
+        "rest api",
+        "restful",
+        "레스트"
+    ],
+    "RabbitMQ": [
+        "rabbitmq",
+        "래빗엠큐",
+        "토끼",
+        "message queue"
+    ],
+    "React": [
+        "react",
+        "reactjs",
+        "리액트"
+    ],
+    "Redis": [
+        "redis",
+        "레디스",
+        "cache",
+        "캐시서버"
+    ],
+    "Rust": [
+        "rust",
+        "rustlang",
+        "러스트"
+    ],
+    "Spring Boot": [
+        "spring",
+        "springboot",
+        "spring boot",
+        "스프링",
+        "스프링부트"
+    ],
+    "Swift": [
+        "swift",
+        "스위프트",
+        "ios"
+    ],
+    "Transformer": [
+        "transformer",
+        "트랜스포머",
+        "attention",
+        "어텐션",
+        "llm"
+    ],
+    "TypeScript": [
+        "ts",
+        "typescript",
+        "타입스크립트",
+        "타스"
+    ],
+    "Vite": [
+        "vite",
+        "비트"
+    ],
+    "Vue": [
+        "vue",
+        "vuejs",
+        "vue.js",
+        "뷰"
+    ],
+    "Webpack": [
+        "webpack",
+        "웹팩"
+    ],
+    "가용성": [
+        "availability",
+        "ha",
+        "high availability",
+        "고가용성"
+    ],
+    "로드 밸런싱": [
+        "load balancing",
+        "alb",
+        "nlb",
+        "elb",
+        "로드밸런서",
+        "부하분산"
+    ],
+    "리플리케이션": [
+        "replication",
+        "db replication",
+        "복제",
+        "리플리카"
+    ],
+    "번들링": [
+        "bundling",
+        "bundler",
+        "번들러"
+    ],
+    "보안": [
+        "security",
+        "sec",
+        "보안"
+    ],
+    "지연 초기화": [
+        "lazy initialization",
+        "lazy loading",
+        "레이지 로딩",
+        "지연로딩"
+    ],
+    "칼만 필터": [
+        "kalman filter",
+        "kalman",
+        "칼만필터",
+        "추정"
+    ],
+    "캐싱": [
+        "caching",
+        "cache",
+        "캐시"
+    ],
+    "확장성": [
+        "scalability",
+        "scale",
+        "스케일링",
+        "확장"
+    ]
+}

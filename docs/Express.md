@@ -1,5 +1,6 @@
 ---
-aliases: [익스프레스, Express.js, express]
+title: Express
+aliases: ["express", "expressjs", "express.js", "익스프레스"]
 ---
 
 # Express

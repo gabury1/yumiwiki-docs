@@ -1,5 +1,6 @@
 ---
-aliases: [뷰, Vue.js, vue]
+title: Vue
+aliases: ["vue", "vuejs", "vue.js", "뷰"]
 ---
 
 # Vue
