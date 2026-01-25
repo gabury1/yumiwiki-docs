@@ -248,5 +248,140 @@
         "scale",
         "스케일링",
         "확장"
+    ],
+    "AWS": [
+        "aws",
+        "amazon web services",
+        "아마존웹서비스",
+        "cloud",
+        "클라우드"
+    ],
+    "CI/CD": [
+        "ci/cd",
+        "ci",
+        "cd",
+        "지속적통합",
+        "지속적배포",
+        "cicd"
+    ],
+    "Git": [
+        "git",
+        "깃",
+        "vcs",
+        "버전관리"
+    ],
+    "MSA": [
+        "microservices",
+        "msa",
+        "마이크로서비스",
+        "마이크로서비스구조"
+    ],
+    "Node.js": [
+        "node",
+        "nodejs",
+        "node.js",
+        "노드",
+        "노드js"
+    ],
+    "OAuth 2.0": [
+        "oauth",
+        "oauth2",
+        "소셜로그인",
+        "오스"
+    ],
+    "React Native": [
+        "rn",
+        "react native",
+        "리액트네이티브",
+        "앱개발"
+    ],
+    "Redux": [
+        "redux",
+        "리덕스",
+        "flux",
+        "상태관리"
+    ],
+    "메모리": [
+        "memory",
+        "ram",
+        "heap",
+        "stack",
+        "메모리관리",
+        "gc",
+        "가비지컬렉션"
+    ],
+    "비동기": [
+        "asynchronous",
+        "async",
+        "비동기",
+        "non-blocking",
+        "논블로킹"
+    ],
+    "GraphQL": [
+        "graphql",
+        "gql",
+        "그래프큐엘"
+    ],
+    "CORS": [
+        "cors",
+        "cross-origin resource sharing",
+        "교차출처리소스공유",
+        "코즈"
+    ],
+    "디자인 패턴": [
+        "design patterns",
+        "디자인패턴",
+        "gof",
+        "소프트웨어패턴"
+    ],
+    "Zustand": [
+        "zustand",
+        "쥬스탄드",
+        "주스탄드",
+        "상태관리"
+    ],
+    "프로세스 vs 스레드": [
+        "process vs thread",
+        "프로세스대스레드",
+        "프로세스스레드차이",
+        "공장과일꾼"
+    ],
+    "트랜잭션": [
+        "transaction",
+        "트랜잭션",
+        "acid",
+        "원자성"
+    ],
+    "GitHub Actions": [
+        "github actions",
+        "깃허브액션",
+        "ci/cd",
+        "자동화"
+    ],
+    "Tailwind CSS": [
+        "tailwind",
+        "테일윈드",
+        "유틸리티퍼스트",
+        "css프레임워크"
+    ],
+    "정규표현식": [
+        "regex",
+        "regular expression",
+        "정규식",
+        "문자열패턴"
+    ],
+    "TDD": [
+        "test driven development",
+        "tdd",
+        "테스트주도개발"
+    ],
+    "프로세스": [
+        "process",
+        "프로세스"
+    ],
+    "스레드": [
+        "thread",
+        "스레드",
+        "일꾼"
     ]
 }
