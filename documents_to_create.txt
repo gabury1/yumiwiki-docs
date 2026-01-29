@@ -377,7 +377,7 @@
 - [ ] Upstash
 - [ ] Supabase
 - [ ] Neon
-- [ ] Vercel
+- [x] Vercel
 - [ ] CloudAMQP
 - [ ] Confluent Cloud
 - [ ] Aiven
@@ -487,6 +487,7 @@
 - [ ] MapStruct
 - [ ] GraalVM
 - [ ] Jakarta EE
+- [x] Caffeine
 
 ## 프로그래밍 언어 (추가)
 - [ ] Erlang
@@ -564,7 +565,7 @@
 ### 프론트엔드 / 모바일
 - [x] React Native
 - [ ] Flutter
-- [ ] Tailwind CSS
+- [x] Tailwind CSS
 - [x] Redux
 - [ ] Zustand
 - [ ] TanStack Query

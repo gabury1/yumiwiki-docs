@@ -358,6 +358,12 @@
         "ci/cd",
         "자동화"
     ],
+    "Tailwind CSS - 문법": [
+        "tailwind syntax",
+        "테일윈드 문법",
+        "tailwind cheat sheet",
+        "테일윈드 유틸리티"
+    ],
     "Tailwind CSS": [
         "tailwind",
         "테일윈드",
@@ -383,5 +389,16 @@
         "thread",
         "스레드",
         "일꾼"
+    ],
+    "Vercel": [
+        "vercel",
+        "버셀",
+        "배포플랫폼"
+    ],
+    "Caffeine": [
+        "caffeine",
+        "카페인",
+        "java cache",
+        "로컬캐시"
     ]
 }
